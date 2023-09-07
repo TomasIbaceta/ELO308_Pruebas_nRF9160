@@ -1,0 +1,381 @@
+*** Booting Zephyr OS build v3.3.99-ncs1 ***
+3...2...1...
+Starting GNSS sample
+Waiting for button press
+button pressed!
+System mode (4) and preference (0) configured
+All init OK
+Tracking:  0 Using:  0 Unhealthy: 0
+Seconds since last fix: 0
+Searching [|]
+Tracking:  2 Using:  0 Unhealthy: 0
+Seconds since last fix: 1
+Searching [/]
+Tracking:  3 Using:  0 Unhealthy: 0
+Seconds since last fix: 2
+Searching [-]
+Tracking:  3 Using:  0 Unhealthy: 0
+Seconds since last fix: 3
+Searching [\]
+Tracking:  4 Using:  0 Unhealthy: 0
+Seconds since last fix: 4
+Searching [|]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 5
+Searching [/]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 6
+Searching [-]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 7
+Searching [\]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 8
+Searching [|]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 9
+Searching [/]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 10
+Searching [-]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 11
+Searching [\]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 12
+Searching [|]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 13
+Searching [/]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 14
+Searching [-]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 15
+Searching [\]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 16
+Searching [|]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 17
+Searching [/]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 18
+Searching [-]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 19
+Searching [\]
+Tracking:  6 Using:  0 Unhealthy: 0
+Seconds since last fix: 20
+Searching [|]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 21
+Searching [/]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 22
+Searching [-]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 23
+Searching [\]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 24
+Searching [|]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 25
+Searching [/]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 26
+Searching [-]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 27
+Searching [\]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 28
+Searching [|]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 29
+Searching [/]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 30
+Searching [-]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 31
+Searching [\]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 32
+Searching [|]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 33
+Searching [/]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 34
+Searching [-]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 35
+Searching [\]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 36
+Searching [|]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 37
+Searching [/]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 38
+Searching [-]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 40
+Searching [\]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 41
+Searching [|]
+Tracking:  8 Using:  3 Unhealthy: 0
+Seconds since last fix: 42
+Searching [/]
+Tracking:  8 Using:  3 Unhealthy: 0
+Seconds since last fix: 43
+Searching [-]
+Tracking:  8 Using:  3 Unhealthy: 0
+Seconds since last fix: 44
+Searching [\]
+Tracking:  8 Using:  3 Unhealthy: 0
+Seconds since last fix: 45
+Searching [|]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 46
+Searching [/]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 47
+Searching [-]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 48
+Searching [\]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 49
+Searching [|]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 50
+Searching [/]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 51
+Searching [-]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 52
+Searching [\]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 53
+Searching [|]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 54
+Searching [/]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 55
+Searching [-]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 56
+Searching [\]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 57
+Searching [|]
+Tracking:  8 Using:  3 Unhealthy: 0
+Seconds since last fix: 58
+Searching [/]
+Tracking:  8 Using:  3 Unhealthy: 0
+Seconds since last fix: 59
+Searching [-]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 60
+Searching [\]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 61
+Searching [|]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 62
+Searching [/]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 63
+Searching [-]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 64
+Searching [\]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 65
+Searching [|]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 66
+Searching [/]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 67
+Searching [-]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 68
+Searching [\]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 69
+Searching [|]
+Tracking:  7 Using:  3 Unhealthy: 0
+Seconds since last fix: 70
+Searching [/]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 71
+Searching [-]
+Tracking:  5 Using:  4 Unhealthy: 0
+  (-33.443234, -70.565954), 
+Seconds since last fix: 7
+Searching [\]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 8
+Searching [|]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 9
+Searching [/]
+Tracking:  6 Using:  4 Unhealthy: 0
+  (-33.443177, -70.565998), 
+Seconds since last fix: 6
+Searching [-]
+Tracking:  4 Using:  3 Unhealthy: 0
+Seconds since last fix: 7
+Searching [\]
+Tracking:  4 Using:  3 Unhealthy: 0
+Seconds since last fix: 8
+Searching [|]
+Tracking:  4 Using:  4 Unhealthy: 0
+  (-33.443169, -70.566054), 
+Seconds since last fix: 6
+Searching [/]
+Tracking:  4 Using:  3 Unhealthy: 0
+Seconds since last fix: 7
+Searching [-]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 8
+Searching [\]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 9
+Searching [|]
+Tracking:  8 Using:  4 Unhealthy: 0
+  (-33.443168, -70.566029), 
+Seconds since last fix: 5
+Searching [/]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 6
+Searching [-]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 7
+Searching [\]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 8
+Searching [|]
+Tracking:  5 Using:  4 Unhealthy: 0
+  (-33.443198, -70.566126), 
+Seconds since last fix: 5
+Searching [/]
+Tracking:  5 Using:  1 Unhealthy: 0
+Seconds since last fix: 6
+Searching [-]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 7
+Searching [\]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 8
+Searching [|]
+Tracking:  5 Using:  4 Unhealthy: 0
+  (-33.443137, -70.566058), 
+Seconds since last fix: 5
+Searching [/]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 6
+Searching [-]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 7
+Searching [\]
+Tracking:  5 Using:  4 Unhealthy: 0
+  (-33.443304, -70.566208), 
+Seconds since last fix: 6
+Searching [|]
+Tracking:  5 Using:  1 Unhealthy: 0
+Seconds since last fix: 7
+Searching [/]
+Tracking:  5 Using:  1 Unhealthy: 0
+Seconds since last fix: 8
+Searching [-]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 9
+Searching [\]
+Tracking:  5 Using:  4 Unhealthy: 0
+  (-33.443280, -70.566240), 
+Seconds since last fix: 5
+Searching [|]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 6
+Searching [/]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 7
+Searching [-]
+Tracking:  6 Using:  4 Unhealthy: 0
+  (-33.443344, -70.566334), 
+Seconds since last fix: 6
+Searching [\]
+Tracking:  5 Using:  0 Unhealthy: 0
+Seconds since last fix: 7
+Searching [|]
+Tracking:  5 Using:  1 Unhealthy: 0
+Seconds since last fix: 8
+Searching [/]
+Tracking:  5 Using:  1 Unhealthy: 0
+Seconds since last fix: 9
+Searching [-]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 10
+Searching [\]
+Tracking:  5 Using:  4 Unhealthy: 0
+  (-33.443246, -70.566112), 
+Seconds since last fix: 4
+Searching [|]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 5
+Searching [/]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 6
+Searching [-]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 7
+Searching [\]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 8
+Searching [|]
+Tracking:  5 Using:  4 Unhealthy: 0
+  (-33.443282, -70.566165), 
+Seconds since last fix: 4
+Searching [/]
+Tracking:  5 Using:  2 Unhealthy: 0
+Seconds since last fix: 5
+Searching [-]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 6
+Searching [\]
+Tracking:  5 Using:  4 Unhealthy: 0
+  (-33.443233, -70.566119), 
+Seconds since last fix: 6
+Searching [|]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 7
+Searching [/]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 8
+Searching [-]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 9
+Searching [\]
+Tracking:  6 Using:  4 Unhealthy: 0
+  (-33.443288, -70.566055), 
+Seconds since last fix: 5
+Searching [|]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 6
+Searching [/]
+Tracking:  5 Using:  3 Unhealthy: 0
+Seconds since last fix: 7
+Searching [-]
+Tracking:  6 Using:  3 Unhealthy: 0
+Seconds since last fix: 8
+Searching [\]
+Tracking:  5 Using:  4 Unhealthy

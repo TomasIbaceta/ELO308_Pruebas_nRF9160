@@ -1,0 +1,83 @@
+<mxfile host="Electron" modified="2023-09-06T16:41:32.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="osz2_2cqIyjxtgNKxoyq" version="21.5.0" type="device">
+  <diagram name="Page-1" id="IOjvMs-Xdt-S2f8LrZKT">
+    <mxGraphModel dx="1276" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="680" width="720" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="ESrDpPTDPOkUUAqTcgOF-1" target="xGxJcI-X1rLYoZyvqv9t-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="1000" />
+              <mxPoint x="450" y="1000" />
+              <mxPoint x="450" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ESrDpPTDPOkUUAqTcgOF-1" target="xGxJcI-X1rLYoZyvqv9t-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="1080" />
+              <mxPoint x="660" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-15" value="Programación" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xGxJcI-X1rLYoZyvqv9t-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.0345" y="-1" relative="1" as="geometry">
+            <mxPoint x="47" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ESrDpPTDPOkUUAqTcgOF-1" value="&lt;br&gt;PC" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="60" y="720" width="270" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-2" value="&lt;br&gt;Placa de desarrollo&lt;br&gt;&lt;i&gt;nRF9160-DK&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="600" y="800" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-3" value="Programa de pruebas energéticas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="920" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.77;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="xGxJcI-X1rLYoZyvqv9t-4" target="xGxJcI-X1rLYoZyvqv9t-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="960" />
+              <mxPoint x="470" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xGxJcI-X1rLYoZyvqv9t-4" target="xGxJcI-X1rLYoZyvqv9t-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-4" value="Multimetro Digital&lt;br&gt;&lt;i&gt;XDM1041&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-13" value="Alimentación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="432" y="994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xGxJcI-X1rLYoZyvqv9t-16" target="xGxJcI-X1rLYoZyvqv9t-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-16" value="DMMEasyControl" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xGxJcI-X1rLYoZyvqv9t-17" target="xGxJcI-X1rLYoZyvqv9t-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-17" value="Log.csv" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-19" value="GraficadorDeDatos.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xGxJcI-X1rLYoZyvqv9t-23" value="Sistema De Pruebas energéticas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="460" y="690" width="288" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

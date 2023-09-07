@@ -1,0 +1,60 @@
+These files were built with nRF Connect SDK version v2.3.0
+from sdk-nrf repository (https://github.com/nrfconnect/sdk-nrf)
+
+Full commit SHA: 8f26142b2f815d5a12e1f77ee8a6ea554a89b079
+
+Folder contents:
+img_app_bl/
+  - Full application images including bootloader.
+  - These files can be used with:
+    - nRF Connect Programmer (only with SEGGER J-Link or another debug probe)
+    - nrfjprog CLI
+img_fota_dfu_hex/
+  - These images contain only application and bootloader is not included.
+  - Images are in HEX format.
+  - These files can be used with nRF Connect Programmer (only via USB bootloader).
+img_fota_dfu_bin/
+  - These images contain only application and bootloader is not included.
+  - Images are in binary format.
+  - These files can be used with:
+    - Over-the-air update, for example, via nRF Cloud, Azure or AWS.
+    - mcumgr CLI (via USB bootloader only)
+
+The following folders contain images configured for modem debugging:
+  - img_app_bl/debug 
+  - img_fota_dfu_hex/debug
+  - img_fota_dfu_bin/debug
+
+File                                                                                             Description
+-----------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------
+img_app_bl/debug/thingy91_asset_tracker_v2_debug_2023-03-02_8f26142b.hex                         Asset tracker v2 firmware for nRF9160, modem debug enabled, NB-Iot and LTE-M network modes
+img_app_bl/debug/thingy91_asset_tracker_v2_debug_nbiot_legacy_pco_2023-03-02_8f26142b.hex        Asset tracker v2 firmware for nRF9160, modem debug enabled, NB-IoT network mode, legacy PCO
+img_app_bl/debug/thingy91_modem_shell_debug_2023-03-02_8f26142b.hex                              Modem shell, modem debug enabled
+img_app_bl/debug/thingy91_serial_lte_modem_debug_2023-03-02_8f26142b.hex                         Serial LTE modem, modem debug enabled
+img_app_bl/thingy91_asset_tracker_v2_2023-03-02_8f26142b.hex                                     Asset tracker v2 firmware for nRF9160, NB-Iot and LTE-M network modes
+img_app_bl/thingy91_asset_tracker_v2_nbiot_legacy_pco_2023-03-02_8f26142b.hex                    Asset tracker v2 firmware for nRF9160, NB-IoT network mode, legacy PCO
+img_app_bl/thingy91_at_client_2023-03-02_8f26142b.hex                                            Firmware for direct modem communication
+img_app_bl/thingy91_modem_shell_2023-03-02_8f26142b.hex                                          Modem shell
+img_app_bl/thingy91_nrf52_connectivity_bridge_2023-03-02_8f26142b.hex                            Connectivity bridge for the nrf52
+img_app_bl/thingy91_serial_lte_modem_2023-03-02_8f26142b.hex                                     Serial LTE modem
+img_fota_dfu_bin/debug/thingy91_asset_tracker_v2_debug_2023-03-02_8f26142b.bin                   Asset tracker v2 firmware for nRF9160, modem debug enabled, NB-Iot and LTE-M network modes
+img_fota_dfu_bin/debug/thingy91_asset_tracker_v2_debug_nbiot_legacy_pco_2023-03-02_8f26142b.bin  Asset tracker v2 firmware for nRF9160, modem debug enabled, NB-IoT network mode, legacy PCO
+img_fota_dfu_bin/debug/thingy91_modem_shell_debug_2023-03-02_8f26142b.bin                        Modem shell, modem debug enabled
+img_fota_dfu_bin/debug/thingy91_serial_lte_modem_debug_2023-03-02_8f26142b.bin                   Serial LTE modem, modem debug enabled
+img_fota_dfu_bin/thingy91_asset_tracker_v2_2023-03-02_8f26142b.bin                               Asset tracker v2 firmware for nRF9160, NB-Iot and LTE-M network modes
+img_fota_dfu_bin/thingy91_asset_tracker_v2_nbiot_legacy_pco_2023-03-02_8f26142b.bin              Asset tracker v2 firmware for nRF9160, NB-IoT network mode, legacy PCO
+img_fota_dfu_bin/thingy91_at_client_2023-03-02_8f26142b.bin                                      Firmware for direct modem communication
+img_fota_dfu_bin/thingy91_modem_shell_2023-03-02_8f26142b.bin                                    Modem shell
+img_fota_dfu_bin/thingy91_nrf52_connectivity_bridge_2023-03-02_8f26142b.bin                      Connectivity bridge for the nrf52
+img_fota_dfu_bin/thingy91_serial_lte_modem_2023-03-02_8f26142b.bin                               Serial LTE modem
+img_fota_dfu_hex/debug/thingy91_asset_tracker_v2_debug_2023-03-02_8f26142b.hex                   Asset tracker v2 firmware for nRF9160, modem debug enabled, NB-Iot and LTE-M network modes
+img_fota_dfu_hex/debug/thingy91_asset_tracker_v2_debug_nbiot_legacy_pco_2023-03-02_8f26142b.hex  Asset tracker v2 firmware for nRF9160, modem debug enabled, NB-IoT network mode, legacy PCO
+img_fota_dfu_hex/debug/thingy91_modem_shell_debug_2023-03-02_8f26142b.hex                        Modem shell, modem debug enabled
+img_fota_dfu_hex/debug/thingy91_serial_lte_modem_debug_2023-03-02_8f26142b.hex                   Serial LTE modem, modem debug enabled
+img_fota_dfu_hex/thingy91_asset_tracker_v2_2023-03-02_8f26142b.hex                               Asset tracker v2 firmware for nRF9160, NB-Iot and LTE-M network modes
+img_fota_dfu_hex/thingy91_asset_tracker_v2_nbiot_legacy_pco_2023-03-02_8f26142b.hex              Asset tracker v2 firmware for nRF9160, NB-IoT network mode, legacy PCO
+img_fota_dfu_hex/thingy91_at_client_2023-03-02_8f26142b.hex                                      Firmware for direct modem communication
+img_fota_dfu_hex/thingy91_modem_shell_2023-03-02_8f26142b.hex                                    Modem shell
+img_fota_dfu_hex/thingy91_nrf52_connectivity_bridge_2023-03-02_8f26142b.hex                      Connectivity bridge for the nrf52
+img_fota_dfu_hex/thingy91_serial_lte_modem_2023-03-02_8f26142b.hex                               Serial LTE modem
+mfw_nrf9160_1.3.4.zip                                                                            Modem firmware, updated through nRF Connect for Desktop
