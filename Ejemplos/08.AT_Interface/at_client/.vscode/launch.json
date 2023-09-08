@@ -1,0 +1,12 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "nrf-connect",
+			"request": "launch",
+			"name": "Launch at_client\\build",
+			"config": "${workspaceFolder}/test1/at_client/build",
+			"runToEntryPoint": "main"
+		}
+	]
+}
